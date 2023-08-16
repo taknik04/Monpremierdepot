@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 10px;
+  border-color: chartreuse;
+}
+
+p {
+  padding: 20px;
+  border-color: aqua;
+}
